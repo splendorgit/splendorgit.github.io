@@ -2,5 +2,12 @@ theme: jekyll-theme-minimal
 title: splendorgit
 description: Just give it a try!
 
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 usemathjax: true
