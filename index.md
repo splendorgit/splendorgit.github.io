@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Testing out latex
 
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
