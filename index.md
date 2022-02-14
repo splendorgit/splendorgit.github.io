@@ -7,7 +7,7 @@ I'm testing my files
 
 ## Testing out latex
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+ $f(x) = x^2$
 
 
 
