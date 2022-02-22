@@ -7,7 +7,7 @@ I'm testing my files
 
 ## Testing out latex
 
- $f(x) = x^2$
+ $$ f(x) = x^2 $$
 
 
 
