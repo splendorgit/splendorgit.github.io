@@ -51,7 +51,7 @@ $y=ax+b$
 
 $a$$b$
 
-$ \mathbf{T}_ij - \mathbf{T}_ji $
+$ \mathbf{T}\_{ij} - \mathbf{T}\_{ji} $
 
 $ a_1 $ $ b_2 $
 
