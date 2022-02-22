@@ -43,3 +43,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
+
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            displayMath: [['$$','$$']],
+            inlineMath: [['$','$']],
+        },
+    });
+</script>
+
+$y=ax+b$
+
+$a$$b$
+
+$\mathbf{T}_{ij} - \mathbf{T}_{ji}$
+
+${a}_1$ $b_{2}$
