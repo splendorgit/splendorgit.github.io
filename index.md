@@ -45,21 +45,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            displayMath: [['$$','$$']],
-            inlineMath: [['$','$']],
-        },
-    });
-</script>
 
 $y=ax+b$
 
 $a$$b$
 
-$\mathbf{T}_{ij} - \mathbf{T}_{ji}$
+$ \mathbf{T}_{ij} - \mathbf{T}_{ji} $
 
-${a}_1$ $b_{2}$
+$ {a}_1$ $b_{2} $
