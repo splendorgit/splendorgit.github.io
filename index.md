@@ -10,7 +10,7 @@ I'm testing my files
 
  $ f(x) = x^2 $
 
-aa
+aa1
 
 ### Markdown
 
@@ -53,7 +53,7 @@ $a$$b$
 
 $ \mathbf{T}_{ij} - \mathbf{T}_{ji} $
 
-$ {a}_1$ $b_{2} $
+$ {a}_1 $ $ b_{2} $
 
 
 
