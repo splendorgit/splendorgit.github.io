@@ -53,8 +53,9 @@ $a$$b$
 
 $ \mathbf{T}_{ij} - \mathbf{T}_{ji} $
 
-$ {a}_1 $ $ b_{2} $
+$ a_1 $ $ b_2 $
 
+$ \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6} $
 
 
 <script type="text/x-mathjax-config">
